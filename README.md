@@ -33,20 +33,6 @@ This project is a fully responsive and visually appealing web app that showcases
 📱 Mobile-first design
 
 
-📂 Folder Structure
-PortFolio/
-├── public/           # Static assets (favicons, preview image, etc.)
-├── src/
-│   ├── assets/       # Images and media
-│   ├── components/   # Reusable components
-│   ├── constants/    # Project and skill data
-│   ├── pages/        # Main pages like Home, About, Projects
-│   ├── App.jsx       # Root component
-│   └── main.jsx      # Entry point
-├── .gitignore
-├── index.html
-├── package.json
-└── README.md
 
 
 🚀 Getting Started
