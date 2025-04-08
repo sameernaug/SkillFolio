@@ -1,8 +1,10 @@
 🌟 Personal Portfolio Website
-Welcome to my personal portfolio website! This project is a fully responsive and visually appealing web app that showcases my projects, skills, and personal/professional background. Built with React, Tailwind CSS, and other modern technologies, it’s designed to leave a lasting first impression.
+
+Welcome to my personal portfolio website!
+This project is a fully responsive and visually appealing web app that showcases my projects, skills, and personal/professional background. Built with React, Tailwind CSS, and other modern technologies, it’s designed to leave a lasting first impression.
 
 🔗 Live Demo
-👉 [SkillFolio](https://skillfolio-virid.vercel.app/)
+👉 https://skillfolio-virid.vercel.app/
 
 🛠️ Built With
 ⚛️ React.js – Frontend framework
@@ -11,9 +13,10 @@ Welcome to my personal portfolio website! This project is a fully responsive and
 
 💡 Framer Motion – Animations and transitions
 
-🌐 Vite – Next-gen frontend tooling for lightning-fast builds (Vercel)
+🌐 Vite – Next-gen frontend tooling for lightning-fast builds
 
 📦 React Icons – Beautifully crafted icons
+
 
 
 📁 Features
@@ -29,11 +32,8 @@ Welcome to my personal portfolio website! This project is a fully responsive and
 
 📱 Mobile-first design
 
-📂 Folder Structure
 
-bash
-Copy
-Edit
+📂 Folder Structure
 PortFolio/
 ├── public/           # Static assets (favicons, preview image, etc.)
 ├── src/
@@ -47,21 +47,21 @@ PortFolio/
 ├── index.html
 ├── package.json
 └── README.md
+
+
 🚀 Getting Started
 Prerequisites
 Node.js (v16 or later)
 
 npm or yarn
 
-Installation
-bash
-Copy
-Edit
+
+Installation:
 git clone https://github.com/sameernaug/PortFolio.git
 cd PortFolio
 npm install
 npm run dev
-Then open http://localhost:5173 to view it in your browser.
+
 
 🧠 Customization Guide
 You can easily customize this portfolio by editing the following files:
@@ -86,7 +86,3 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 
 🧾 License
 This project is open source and available under the MIT License.
-
-📬 Contact
-Made with ❤️ by Sameer Naug
-👔 LinkedIn : linkedin.com/in/thesameernaugariya
