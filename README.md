@@ -1,73 +1,92 @@
-# Welcome to your Lovable project
+🌟 Personal Portfolio Website
+Welcome to my personal portfolio website! This project is a fully responsive and visually appealing web app that showcases my projects, skills, and personal/professional background. Built with React, Tailwind CSS, and other modern technologies, it’s designed to leave a lasting first impression.
 
-## Project info
+🔗 Live Demo
+👉 [SkillFolio](https://skillfolio-virid.vercel.app/)
 
-**URL**: https://lovable.dev/projects/043f5ff9-9e1a-43a3-81d0-9b1fdc482a3e
+🛠️ Built With
+⚛️ React.js – Frontend framework
 
-## How can I edit this code?
+🎨 Tailwind CSS – Utility-first CSS framework for styling
 
-There are several ways of editing your application.
+💡 Framer Motion – Animations and transitions
 
-**Use Lovable**
+🌐 Vite – Next-gen frontend tooling for lightning-fast builds (Vercel)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/043f5ff9-9e1a-43a3-81d0-9b1fdc482a3e) and start prompting.
+📦 React Icons – Beautifully crafted icons
 
-Changes made via Lovable will be committed automatically to this repo.
 
-**Use your preferred IDE**
+📁 Features
+⚡ Modern, fast, and fully responsive UI
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+💼 Dynamic Projects Section
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+🧠 Skills & Tech Stack Section
 
-Follow these steps:
+📄 Resume and Contact Integration
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+🌙 Dark mode toggle (if implemented)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+📱 Mobile-first design
 
-# Step 3: Install the necessary dependencies.
-npm i
+📂 Folder Structure
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+bash
+Copy
+Edit
+PortFolio/
+├── public/           # Static assets (favicons, preview image, etc.)
+├── src/
+│   ├── assets/       # Images and media
+│   ├── components/   # Reusable components
+│   ├── constants/    # Project and skill data
+│   ├── pages/        # Main pages like Home, About, Projects
+│   ├── App.jsx       # Root component
+│   └── main.jsx      # Entry point
+├── .gitignore
+├── index.html
+├── package.json
+└── README.md
+🚀 Getting Started
+Prerequisites
+Node.js (v16 or later)
+
+npm or yarn
+
+Installation
+bash
+Copy
+Edit
+git clone https://github.com/sameernaug/PortFolio.git
+cd PortFolio
+npm install
 npm run dev
-```
+Then open http://localhost:5173 to view it in your browser.
 
-**Edit a file directly in GitHub**
+🧠 Customization Guide
+You can easily customize this portfolio by editing the following files:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Skills & Tools → src/constants/index.js
 
-**Use GitHub Codespaces**
+Projects → src/constants/index.js
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Personal Info (name, role, intro) → src/pages/Hero.jsx or About.jsx
 
-## What technologies are used for this project?
+Images/Assets → src/assets/
 
-This project is built with:
+📌 Roadmap Ideas (Optional)
+ Add blog section
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+ Add dark/light theme toggle
 
-## How can I deploy this project?
+ Integrate backend contact form with EmailJS or Node.js
 
-Simply open [Lovable](https://lovable.dev/projects/043f5ff9-9e1a-43a3-81d0-9b1fdc482a3e) and click on Share -> Publish.
+🤝 Contributing
+Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
 
-## Can I connect a custom domain to my Lovable project?
+🧾 License
+This project is open source and available under the MIT License.
 
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+📬 Contact
+Made with ❤️ by Sameer Naug
+👔 LinkedIn : linkedin.com/in/thesameernaugariya
